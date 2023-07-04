@@ -1,4 +1,4 @@
-<!-- For Feature/authentication Branches -->
+<!-- For feature/profile Branches -->
 
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
@@ -14,7 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">about</RouterLink>
+        <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
   </header>
