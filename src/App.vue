@@ -1,4 +1,4 @@
-<!-- For Feature/authentication Branches -->
+<!-- For feature/profile Branches -->
 
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
